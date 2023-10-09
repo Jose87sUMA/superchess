@@ -12,3 +12,7 @@
       --lumo-shade-90pct: hsla(214, 0%, 0%, 0.9);
 
     }
+
+.v-drag-over-target.card {
+      outline: 1px solid lightgreen;
+}

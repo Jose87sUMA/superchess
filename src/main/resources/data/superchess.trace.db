@@ -1,0 +1,27 @@
+2023-05-02 02:46:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 where p1_0.username=? [42104-214]
+2023-05-02 02:46:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 where p1_0.username=? [42104-214]
+2023-05-02 02:49:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:49:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:50:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:50:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:51:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:53:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
+2023-05-02 02:54:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.hashed_password,p1_0.name,p1_0.profile_picture,p1_0.username,p1_0.version from player p1_0 [42104-214]
